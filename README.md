@@ -19,9 +19,9 @@ The purpose of this Jupyter Notebook is to employ various machine learning techn
 - Jupyter Notebook or JupyterLab
 
 ## Input
-- Titanic dataset from an online repository.
-- California housing data accessed through sklearn's dataset library.
-- Wine quality data from a provided CSV file.
+- Titanic dataset: Accessed from an online repository via a URL.
+- California housing data: Loaded using sklearn's `fetch_california_housing` function.
+- Wine quality data: Loaded using sklearn's `datasets.load_wine()` function, which provides the dataset pre-packaged within the library.
 
 ## Output
 - Predictive models for Titanic survival and California housing prices.
