@@ -11,7 +11,7 @@ The purpose of this Jupyter Notebook is to employ various machine learning techn
 ## Usage
 - Open the notebook in a Jupyter environment.
 - Ensure all prerequisites are installed.
-- Run the cells from top to bottom to load the data, preprocess it, perform exploratory data analysis (EDA), build models, and visualize results.
+- Run the cells sequentially to load the data, preprocess it, perform exploratory data analysis (EDA), build models, and visualize results.
 
 ## Prerequisites
 - Python 3.x
