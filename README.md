@@ -1,7 +1,7 @@
 # Predicitve Modeling and Clustering
 
 ## Overview
-The purpose of this Jupyter Notebook is to show 3 data science mini-projects that employ various machine learning techniques that analyze and predict data outcomes. Each project is focused on a different dataset: the Titanic dataset for survival prediction, California housing data for price prediction, and Wine quality data for clustering.
+The purpose of this Jupyter Notebook is to employ various machine learning techniques that analyze and predict data outcomes. Each project is focused on a different dataset: the Titanic dataset for survival prediction, California housing data for price prediction, and Wine quality data for clustering.
 
 ## Features
 - **Titanic Survival Prediction**: Uses logistic regression to predict survival based on passenger data.
