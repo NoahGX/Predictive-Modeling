@@ -1,4 +1,4 @@
-# Predicitve Modeling and Clustering
+# Predictive Modeling
 
 ## Overview
 The purpose of this Jupyter Notebook is to employ various machine learning techniques that analyze and predict data outcomes. Each project is focused on a different dataset: the Titanic dataset for survival prediction, California housing data for price prediction, and Wine quality data for clustering.
@@ -10,13 +10,12 @@ The purpose of this Jupyter Notebook is to employ various machine learning techn
 
 ## Usage
 - Open the notebook in a Jupyter environment.
-- Ensure all prerequisites are installed.
-- Run the cells sequentially to load the data, preprocess it, perform exploratory data analysis (EDA), build models, and visualize results.
+- Run each cell sequentially to load the data, preprocess it, perform exploratory data analysis (EDA), build models, and visualize results.
 
 ## Prerequisites
 - Python 3.x
-- Libraries: pandas, numpy, matplotlib, seaborn, sklearn
 - Jupyter Notebook or JupyterLab
+- Python libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `sklearn`
 
 ## Input
 - Titanic dataset: Accessed from an online repository via a URL.
@@ -29,5 +28,6 @@ The purpose of this Jupyter Notebook is to employ various machine learning techn
 - Visualizations for exploratory data analysis and results interpretation.
 
 ## Notes
+- Ensure all prerequisites are installed.
 - Ensure that all datasets are accessible and that the paths or URLs provided are correct.
 - Adjust hyperparameters as necessary based on specific data characteristics or desired accuracy.
